@@ -22,6 +22,7 @@
     padding: 20px;
     border-radius: 4px;
     color: #626262;
+    margin-top: 50px;
 }
 .main-content{
     flex-basis: 47%;
@@ -82,7 +83,6 @@ i{
     color: #1876f2;
     font-size: 12px;
 }
-
 .events{
     display: flex;
     font-size: 14px;

@@ -9,7 +9,7 @@
 /* background-image: linear-gradient(transparent,rgba(0,0,0,0.5)); */
     padding-top: 32%;
     position: relative;
-   
+   margin-top: 70px;
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -38,7 +38,7 @@
 }
 
 .story2{
-    background-image: linear-gradient(transparent,rgba(0,0,0,0.5)),url(./images/Pho1.jpg);
+    background-image: linear-gradient(transparent,rgba(0,0,0,0.5)),url(./images/mahi.jpeg);
 }
 
 .story3{

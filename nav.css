@@ -23,9 +23,10 @@ nav{
     justify-content: space-between;
     background: #1876f2;
     padding: 6px 8%;
-    position: sticky;
+    position: fixed;
     top: 0;
-    z-index: 100%;
+    z-index: 10;
+    width: 100%;
 }
 .logo{
     width: 100px;
